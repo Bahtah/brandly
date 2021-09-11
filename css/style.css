@@ -263,4 +263,12 @@ img {
     .blog__card {
         margin-bottom: 40px;
     }
+    .footer {
+        position: relative;
+    }
+    .footer__copy {
+        position: absolute;
+        top: 8px;
+        left: 16px;
+    }
 }
